@@ -23,7 +23,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # This MUST match the outDir in your vite.config.ts
-          path: './client/dist'
+          # Changed from ./client/dist to just ./dist
+          path: './dist'
       - name: Deploy
         uses: actions/deploy-pages@v4
