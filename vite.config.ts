@@ -8,15 +8,15 @@ export default defineConfig({
   plugins: [react()],
   resolve: {
     alias: {
-      "@": path.resolve(__dirname, "client/src"),
-      "@shared": path.resolve(__dirname, "shared"),
+      "@": path.resolve(import.meta.dirname, "client/src"),
+      "@shared": path.resolve(import.meta.dirname, "shared"),
     },
   },
   // Tells Vite that index.html is inside the client folder
-  root: path.resolve(__dirname, "client"),
+  root: path.resolve(import.meta.dirname, "client"),
   build: {
     // Tells Vite to put the final website in a folder called 'dist' at the root
-    outDir: path.resolve(__dirname, "dist/public"),
+    outDir: path.resolve(import.meta.dirname, "dist/public"),
     emptyOutDir: true,
   },
 });
