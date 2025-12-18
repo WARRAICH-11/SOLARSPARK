@@ -1,0 +1,57 @@
+Project Name: Website for "Solar Electric" – A Premium Solar Installation Company.
+
+Brand Identity: Professional, trustworthy, eco-friendly, and modern. Use a color palette of Deep Navy Blue (trust), Solar Yellow/Gold (energy), and Clean White (minimalism).
+
+Core Website Requirements:
+
+Visual Style: Use a high-end, corporate aesthetic with "Bold Minimalism." Incorporate high-resolution imagery of residential and commercial solar rooftops, glass textures, and clean vector icons. Use "Scrollytelling" effects where elements fade in as the user scrolls.
+
+Floating WhatsApp Integration: Place a persistent, professional WhatsApp chat widget in the bottom-right corner.
+
+Label: "24/7 Support - Chat with an Expert"
+
+Number: +92 312 7739752
+
+Message: "Hi Solar Electric! I’m interested in a solar installation. Can we negotiate a price for my home/office?"
+
+Page Structure & Sections:
+
+Hero Section: A stunning background video of a sun-drenched home. Headline: "Empowering Your Future with Clean Energy." Sub-headline: "Quality materials, expert installation, and prices that fit your budget." Large CTA: "Get a Free Quote."
+
+Why Choose Us: Showcase 3 pillars: Quality Materials (Tier-1 Panels), Expert Engineers, and After-Sales Support.
+
+Installation Plans: Create a 3-column pricing table for:
+
+Starter (3kW - 5kW): Ideal for small homes.
+
+Premium (7kW - 10kW): Best for medium families.
+
+Elite (15kW+): Commercial & Industrial solutions.
+
+Note under tables: "All prices are negotiable. Connect on WhatsApp for a custom discount."
+
+Interactive Solar Calculator: A simple UI where users can input their monthly electricity bill to see estimated savings.
+
+Product Showcase: A gallery section showing Tier-1 panels (Longi, Jinko) and Inverters (Inverex, Huawei).
+
+Trust Signals: A "Our Process" section (Survey -> Design -> Install -> Net Metering) and a Testimonials slider.
+
+Footer: Professional links, location map, and a secondary contact form.
+
+Technical Note: The site must be 100% mobile-responsive and load in under 2 seconds.
+
+🛠️ Recommended Tools to Use This Prompt
+If you are building this yourself, I recommend these platforms:
+
+Framer or Webflow: Best for that "High-End" professional look with animations.
+
+Hostinger AI Builder: Very fast for generating a functional site in minutes using the prompt above.
+
+WordPress with Elementor: Best if you want total control over the WhatsApp widget and SEO.
+
+💡 Pro-Tips for "Solar Electric"
+Real Photos Matter: Don't just use stock photos. If you have completed a project in Pakistan, put a real photo of that house. It builds massive trust.
+
+Negotiation Strategy: Since you mentioned prices are negotiable, use "Starting from..." on your price tables. It makes the customer feel they can get a better deal when they click your WhatsApp button.
+
+Local SEO: Make sure to mention the cities you serve (e.g., "Best Solar Installation in Lahore/Karachi") in the text so people find you on Google.
