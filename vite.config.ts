@@ -13,7 +13,7 @@ export default defineConfig({
   },
   root: path.resolve(import.meta.dirname, "client"),
   build: {
-    // We are simplifying this to just 'dist' for GitHub compatibility
+    // This ensures the folder is created at the very top level of your project
     outDir: path.resolve(import.meta.dirname, "dist"),
     emptyOutDir: true,
   },
